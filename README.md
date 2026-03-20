@@ -1,2 +1,3 @@
-# micro-travel-planner-gclu
-Automated issue comment bot repository
+# Micro Travel Planner Gclu
+
+Automated issue comment bot repository.
